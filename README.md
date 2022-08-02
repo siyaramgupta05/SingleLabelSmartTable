@@ -1,0 +1,2 @@
+# SingleLabelSmartTable
+Created with CodeSandbox
